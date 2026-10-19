@@ -1138,7 +1138,7 @@
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-49" edge="1" parent="nAZKUSNdWfQ8FnzbpV9h-1" source="nAZKUSNdWfQ8FnzbpV9h-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="nAZKUSNdWfQ8FnzbpV9h-48" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-50" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="Communication delay" vertex="1">
+        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-50" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="데이터 지연" vertex="1">
           <mxGeometry height="55" width="220" x="1440" y="459" as="geometry" />
         </mxCell>
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-51" edge="1" parent="nAZKUSNdWfQ8FnzbpV9h-1" source="nAZKUSNdWfQ8FnzbpV9h-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="nAZKUSNdWfQ8FnzbpV9h-50" value="">
@@ -1149,7 +1149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-52" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="" vertex="1">
+        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-52" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="데이터 오류" vertex="1">
           <mxGeometry height="55" width="220" x="1440" y="554" as="geometry" />
         </mxCell>
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-53" edge="1" parent="nAZKUSNdWfQ8FnzbpV9h-1" source="nAZKUSNdWfQ8FnzbpV9h-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="nAZKUSNdWfQ8FnzbpV9h-52" value="">
@@ -1160,7 +1160,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-54" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="전송 경로&amp;nbsp;" vertex="1">
+        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-54" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="전송 경로 차단" vertex="1">
           <mxGeometry height="55" width="220" x="1440" y="649" as="geometry" />
         </mxCell>
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-55" edge="1" parent="nAZKUSNdWfQ8FnzbpV9h-1" source="nAZKUSNdWfQ8FnzbpV9h-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="nAZKUSNdWfQ8FnzbpV9h-54" value="">
