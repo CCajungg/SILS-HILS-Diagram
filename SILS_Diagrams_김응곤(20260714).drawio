@@ -930,7 +930,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="10_SILS_Scenario_Library의 복사본" id="4rgSZ_fHgHbkuMHkCeq2">
-    <mxGraphModel dx="2492" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2763" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-0" />
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-1" parent="nAZKUSNdWfQ8FnzbpV9h-0" />
@@ -1093,7 +1093,7 @@
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-39" edge="1" parent="nAZKUSNdWfQ8FnzbpV9h-1" source="nAZKUSNdWfQ8FnzbpV9h-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="nAZKUSNdWfQ8FnzbpV9h-38" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-40" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="Wind" vertex="1">
+        <mxCell id="nAZKUSNdWfQ8FnzbpV9h-40" parent="nAZKUSNdWfQ8FnzbpV9h-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;strokeColor=#6c8ebf;fontSize=14;" value="Wind, Wave" vertex="1">
           <mxGeometry height="55" width="220" x="1100" y="459" as="geometry" />
         </mxCell>
         <mxCell id="nAZKUSNdWfQ8FnzbpV9h-41" edge="1" parent="nAZKUSNdWfQ8FnzbpV9h-1" source="nAZKUSNdWfQ8FnzbpV9h-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="nAZKUSNdWfQ8FnzbpV9h-40" value="">
